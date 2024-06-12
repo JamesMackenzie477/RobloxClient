@@ -1,0 +1,57 @@
+﻿  Cryptor.cpp
+Cryptor.cpp(8686): warning C4244: '=': conversion from 'short' to 'uint8', possible loss of data
+  Roblox.cpp
+d:\projects\c++\robloxclient\robloxclient\defs.h(100): warning C4005: 'LOBYTE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(206): note: see previous definition of 'LOBYTE'
+d:\projects\c++\robloxclient\robloxclient\defs.h(101): warning C4005: 'LOWORD': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(204): note: see previous definition of 'LOWORD'
+d:\projects\c++\robloxclient\robloxclient\defs.h(103): warning C4005: 'HIBYTE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(207): note: see previous definition of 'HIBYTE'
+d:\projects\c++\robloxclient\robloxclient\defs.h(104): warning C4005: 'HIWORD': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(205): note: see previous definition of 'HIWORD'
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(48): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(48): warning C4309: 'initializing': truncation of constant value
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(53): warning C4838: conversion from 'Roblox::MessageIDTypes' to 'const char' requires a narrowing conversion
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(53): warning C4305: 'initializing': truncation from 'Roblox::MessageIDTypes' to 'const char'
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(53): warning C4309: 'initializing': truncation of constant value
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(58): warning C4838: conversion from 'Roblox::MessageIDTypes' to 'const char' requires a narrowing conversion
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(58): warning C4305: 'initializing': truncation from 'Roblox::MessageIDTypes' to 'const char'
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(58): warning C4309: 'initializing': truncation of constant value
+Roblox.cpp(156): warning C4309: 'initializing': truncation of constant value
+Roblox.cpp(302): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+Roblox.cpp(303): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+Roblox.cpp(309): warning C4244: '=': conversion from 'uint64' to 'unsigned int', possible loss of data
+  RobloxClient.cpp
+d:\projects\c++\robloxclient\robloxclient\defs.h(100): warning C4005: 'LOBYTE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(206): note: see previous definition of 'LOBYTE'
+d:\projects\c++\robloxclient\robloxclient\defs.h(101): warning C4005: 'LOWORD': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(204): note: see previous definition of 'LOWORD'
+d:\projects\c++\robloxclient\robloxclient\defs.h(103): warning C4005: 'HIBYTE': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(207): note: see previous definition of 'HIBYTE'
+d:\projects\c++\robloxclient\robloxclient\defs.h(104): warning C4005: 'HIWORD': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h(205): note: see previous definition of 'HIWORD'
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(48): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(48): warning C4309: 'initializing': truncation of constant value
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(53): warning C4838: conversion from 'Roblox::MessageIDTypes' to 'const char' requires a narrowing conversion
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(53): warning C4305: 'initializing': truncation from 'Roblox::MessageIDTypes' to 'const char'
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(53): warning C4309: 'initializing': truncation of constant value
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(58): warning C4838: conversion from 'Roblox::MessageIDTypes' to 'const char' requires a narrowing conversion
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(58): warning C4305: 'initializing': truncation from 'Roblox::MessageIDTypes' to 'const char'
+d:\projects\c++\robloxclient\robloxclient\Roblox.h(58): warning C4309: 'initializing': truncation of constant value
+RobloxClient.cpp(25): warning C4005: '__int128': macro redefinition
+  d:\projects\c++\robloxclient\robloxclient\Roblox.h(24): note: see previous definition of '__int128'
+RobloxClient.cpp(41): warning C4005: 'ID_ROBLOX_REPLICATION': macro redefinition
+  d:\projects\c++\robloxclient\robloxclient\Roblox.h(17): note: see previous definition of 'ID_ROBLOX_REPLICATION'
+RobloxClient.cpp(67): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+RobloxClient.cpp(67): warning C4309: 'initializing': truncation of constant value
+RobloxClient.cpp(88): warning C4244: '=': conversion from 'uint64' to 'unsigned int', possible loss of data
+RobloxClient.cpp(102): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+RobloxClient.cpp(257): warning C4309: 'initializing': truncation of constant value
+RobloxClient.cpp(396): warning C4477: 'printf' : format string '%I64u' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'RakNet::RakNetGUID'
+  Generating code
+  5 of 196 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RobloxClient.vcxproj -> D:\Projects\C++\RobloxClient\Release\RobloxClient.exe
+  RobloxClient.vcxproj -> D:\Projects\C++\RobloxClient\Release\RobloxClient.pdb (Full PDB)
